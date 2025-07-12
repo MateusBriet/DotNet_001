@@ -1,0 +1,14 @@
+C:\Desenvolvimento .NET_VS CODE\bin\Debug\net9.0\Desenvolvimento .NET_VS CODE.exe
+C:\Desenvolvimento .NET_VS CODE\bin\Debug\net9.0\Desenvolvimento .NET_VS CODE.deps.json
+C:\Desenvolvimento .NET_VS CODE\bin\Debug\net9.0\Desenvolvimento .NET_VS CODE.runtimeconfig.json
+C:\Desenvolvimento .NET_VS CODE\bin\Debug\net9.0\Desenvolvimento .NET_VS CODE.dll
+C:\Desenvolvimento .NET_VS CODE\bin\Debug\net9.0\Desenvolvimento .NET_VS CODE.pdb
+C:\Desenvolvimento .NET_VS CODE\obj\Debug\net9.0\Desenvolvimento .NET_VS CODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento .NET_VS CODE\obj\Debug\net9.0\Desenvolvimento .NET_VS CODE.AssemblyInfoInputs.cache
+C:\Desenvolvimento .NET_VS CODE\obj\Debug\net9.0\Desenvolvimento .NET_VS CODE.AssemblyInfo.cs
+C:\Desenvolvimento .NET_VS CODE\obj\Debug\net9.0\Desenvolvimento .NET_VS CODE.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento .NET_VS CODE\obj\Debug\net9.0\Desenvolvimento .NET_VS CODE.dll
+C:\Desenvolvimento .NET_VS CODE\obj\Debug\net9.0\refint\Desenvolvimento .NET_VS CODE.dll
+C:\Desenvolvimento .NET_VS CODE\obj\Debug\net9.0\Desenvolvimento .NET_VS CODE.pdb
+C:\Desenvolvimento .NET_VS CODE\obj\Debug\net9.0\Desenvolvimento .NET_VS CODE.genruntimeconfig.cache
+C:\Desenvolvimento .NET_VS CODE\obj\Debug\net9.0\ref\Desenvolvimento .NET_VS CODE.dll

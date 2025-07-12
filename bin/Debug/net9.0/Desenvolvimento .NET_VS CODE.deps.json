@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Desenvolvimento .NET_VS CODE/1.0.0": {
+        "runtime": {
+          "Desenvolvimento .NET_VS CODE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desenvolvimento .NET_VS CODE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
